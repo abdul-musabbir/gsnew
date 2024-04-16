@@ -3,6 +3,7 @@ import Counter from "./components/Counter";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import LogoSlider from "./components/LogoSlider";
+import Portfolio from "./components/Portfolio";
 import Service from "./components/Service";
 function App() {
   return (
@@ -13,7 +14,7 @@ function App() {
       <Service />
       <About />
       <Counter />
-      {/* <Portfolio /> */}
+      <Portfolio />
       {/* <Reviews /> */}
       {/* <ContactUs /> */}
       {/* <Footer /> */}
